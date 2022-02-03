@@ -26,3 +26,5 @@ function multiplyVariables() {
 function divideVariables() {
     document.getElementById("divide").innerHTML = operatorChart.division
 };
+
+//end of assignment
