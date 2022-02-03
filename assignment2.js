@@ -26,15 +26,3 @@ function multiplyVariables() {
 function divideVariables() {
     document.getElementById("divide").innerHTML = operatorChart.division
 };
-
-
-
-/* 
-1. output to the console
-2. create a global variable and identify it with comments
-3. create a block variable and identify it with comments
-4. perform mathematical operations on variables
-5. create a string variable, identify it with a commment and output to the console
-6. create an object variable using const. create an object variable and assign values
-7. upload to Git and submit as a repository
-*/
